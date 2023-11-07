@@ -11,4 +11,6 @@ Following an online tutorial to understand Spring API and React
  # SpringBoot Takeaways:
  - Lombok's @Builder
     - Instantiates immutable, complete objects
- - 
+ - h2Database 
+    - An in-memory database
+    - Allows for easy mock data to be set-up in project(Initializer.java)
